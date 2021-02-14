@@ -38,5 +38,5 @@ def play():
                 else (p1s=p2s):
                     print("both ",p1," & ",p2,"is winner!!!!")
                 break
-    print("we are out of the while loop.")
+    print("we are out of the while loop hurrah!!")
     
